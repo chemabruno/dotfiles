@@ -1,0 +1,615 @@
+Compiling Sass/Scss Files: 
+/home/chema/PC3/src/css/signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Compilation Error
+Error: Invalid CSS after "  color": expected "}", was ": $green-dark;"
+        on line 39 of sass/home/chema/PC3/src/css/signup.scss
+>>   color: $green-dark;
+
+   --^
+
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Compilation Error
+Error: Invalid CSS after "}": expected selector or at-rule, was "}"
+        on line 184 of sass/home/chema/PC3/src/css/signup.scss
+>> }
+
+   -^
+
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Compilation Error
+Error: Invalid CSS after "}": expected selector or at-rule, was "}"
+        on line 184 of sass/home/chema/PC3/src/css/signup.scss
+>> }
+
+   -^
+
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------
+Change Detected...
+signup.scss
+--------------------
+Generated :
+/home/chema/PC3/src/css/signup.css
+/home/chema/PC3/src/css/signup.css.map
+--------------------
+Watching...
+--------------------

@@ -1,0 +1,69 @@
+[2021-01-21 15:26:06.166] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/chema/Desktop/futurogit/.vscode'
+[2021-01-21 18:14:27.316] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/srv/http/laravel/cmd-laravel/.vscode'
+[2021-01-21 18:16:11.487] [renderer1] [error] [text file model] handleSaveError(63) - exit - resulted in a save error: Error: Unable to write file '/srv/http/laravel/cmd-laravel/routes/web.php' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/srv/http/laravel/cmd-laravel/routes/web.php') file:///srv/http/laravel/cmd-laravel/routes/web.php
+[2021-01-21 19:23:53.872] [renderer1] [error] [text file model] handleSaveError(89) - exit - resulted in a save error: Error: Unable to write file '/srv/http/laravel/cmd-laravel/.env' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/srv/http/laravel/cmd-laravel/.env') file:///srv/http/laravel/cmd-laravel/.env
+[2021-01-21 19:24:52.066] [renderer1] [error] Error: Unable to write file '/srv/http/laravel/cmd-laravel/config/emails' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/srv/http/laravel/cmd-laravel/config/emails')
+    at _.writeFile (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1803:7)
+    at async _.createFile (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1802:231)
+    at async p.doCreateFileOrFolder (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6782:94)
+    at async m.perform (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6814:240)
+    at async S.apply (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6817:420)
+    at async b._performFileEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:577)
+    at async b.perform (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:36)
+    at async _.apply (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6821:332)
+    at async file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6139:737
+[2021-01-21 19:24:52.103] [renderer1] [error] Unable to write file '/srv/http/laravel/cmd-laravel/config/emails' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/srv/http/laravel/cmd-laravel/config/emails'): Error: Unable to write file '/srv/http/laravel/cmd-laravel/config/emails' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/srv/http/laravel/cmd-laravel/config/emails')
+    at _.writeFile (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1803:7)
+    at async _.createFile (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1802:231)
+    at async p.doCreateFileOrFolder (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6782:94)
+    at async m.perform (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6814:240)
+    at async S.apply (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6817:420)
+    at async b._performFileEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:577)
+    at async b.perform (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:36)
+    at async _.apply (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6821:332)
+    at async file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6139:737
+[2021-01-21 19:28:58.586] [renderer1] [warning] undefined
+[2021-01-21 19:28:58.676] [renderer1] [error] [text file model] handleSaveError(30) - exit - resulted in a save error: Error: Unable to write file '/srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php') file:///srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php
+[2021-01-21 19:29:00.653] [renderer1] [warning] undefined
+[2021-01-21 19:29:09.425] [renderer1] [warning] undefined
+[2021-01-21 19:29:09.474] [renderer1] [error] [text file model] handleSaveError(43) - exit - resulted in a save error: Error: Unable to write file '/srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php') file:///srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php
+[2021-01-21 19:29:10.825] [renderer1] [warning] undefined
+[2021-01-21 19:29:16.224] [renderer1] [warning] undefined
+[2021-01-21 19:29:16.278] [renderer1] [error] [text file model] handleSaveError(47) - exit - resulted in a save error: Error: Unable to write file '/srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php') file:///srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php
+[2021-01-21 19:29:18.794] [renderer1] [warning] undefined
+[2021-01-21 19:31:05.751] [renderer1] [error] [text file model] handleSaveError(143) - exit - resulted in a save error: Error: Unable to write file '/srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php') file:///srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php
+[2021-01-21 19:31:22.416] [renderer1] [error] [text file model] handleSaveError(157) - exit - resulted in a save error: Error: Unable to write file '/srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php') file:///srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php
+[2021-01-21 19:31:26.824] [renderer1] [error] [text file model] handleSaveError(160) - exit - resulted in a save error: Error: Unable to write file '/srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php') file:///srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php
+[2021-01-21 19:32:48.158] [renderer1] [error] [text file model] handleSaveError(203) - exit - resulted in a save error: Error: Unable to write file '/srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php') file:///srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php
+[2021-01-21 19:33:23.457] [renderer1] [error] [text file model] handleSaveError(243) - exit - resulted in a save error: Error: Unable to write file '/srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php') file:///srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php
+[2021-01-21 19:34:15.611] [renderer1] [error] [text file model] handleSaveError(3) - exit - resulted in a save error: Error: Unable to write file '/srv/http/laravel/cmd-laravel/resources/views/emails/mail.blade.php' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/srv/http/laravel/cmd-laravel/resources/views/emails/mail.blade.php') file:///srv/http/laravel/cmd-laravel/resources/views/emails/mail.blade.php
+[2021-01-21 19:34:40.837] [renderer1] [error] [text file model] handleSaveError(6) - exit - resulted in a save error: Error: Unable to write file '/srv/http/laravel/cmd-laravel/resources/views/emails/mail.blade.php' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/srv/http/laravel/cmd-laravel/resources/views/emails/mail.blade.php') file:///srv/http/laravel/cmd-laravel/resources/views/emails/mail.blade.php
+[2021-01-21 19:35:56.660] [renderer1] [error] [text file model] handleSaveError(282) - exit - resulted in a save error: Error: Unable to write file '/srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php') file:///srv/http/laravel/cmd-laravel/app/Http/Controllers/correo.php
+[2021-01-21 19:36:28.476] [renderer1] [error] NoPermissions (FileSystemError): Error: EACCES: permission denied, rename '/srv/http/laravel/cmd-laravel/resources/views/emails/mail.blade.php' -> '/srv/http/laravel/cmd-laravel/resources/views/mail.blade.php'
+    at Object.h [as createFileSystemProviderError] (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1749:87)
+    at r.toFileSystemProviderError (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1823:421)
+    at rename (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1820:159)
+    at async _.doMoveCopy (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1808:103)
+    at async _.move (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1807:149)
+    at async p.doMoveOrCopy (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6783:211)
+    at async e.perform (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6812:361)
+    at async S.apply (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6817:420)
+    at async b._performFileEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:577)
+    at async b.perform (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:36)
+    at async _.apply (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6821:332)
+    at async file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6139:737
+[2021-01-21 19:36:28.518] [renderer1] [error] Error: EACCES: permission denied, rename '/srv/http/laravel/cmd-laravel/resources/views/emails/mail.blade.php' -> '/srv/http/laravel/cmd-laravel/resources/views/mail.blade.php': NoPermissions (FileSystemError): Error: EACCES: permission denied, rename '/srv/http/laravel/cmd-laravel/resources/views/emails/mail.blade.php' -> '/srv/http/laravel/cmd-laravel/resources/views/mail.blade.php'
+    at Object.h [as createFileSystemProviderError] (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1749:87)
+    at r.toFileSystemProviderError (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1823:421)
+    at rename (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1820:159)
+    at async _.doMoveCopy (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1808:103)
+    at async _.move (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1807:149)
+    at async p.doMoveOrCopy (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6783:211)
+    at async e.perform (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6812:361)
+    at async S.apply (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6817:420)
+    at async b._performFileEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:577)
+    at async b.perform (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6819:36)
+    at async _.apply (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6821:332)
+    at async file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6139:737
+[2021-01-21 19:38:44.186] [renderer1] [warning] undefined
+[2021-01-21 19:39:33.826] [renderer1] [warning] undefined

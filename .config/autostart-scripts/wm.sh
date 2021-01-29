@@ -1,0 +1,1 @@
+/home/chema/.scripts/wm.sh

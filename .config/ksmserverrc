@@ -1,0 +1,34 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1078353130000161165113800000006180004
+clientId2=1078353130000161165113800000006180005
+clientId3=1078353130000161165113900000006180009
+clientId4=1078353130000161125156700000006230031
+clientId5=1078353130000161143591300000006120011
+count=5
+discardCommand5[$e]=rm,$HOME/.config/session/kmix_1078353130000161143591300000006120011_1611666066_906334
+program1=/usr/bin/latte-dock
+program2=/usr/lib/DiscoverNotifier
+program3=pulseaudio
+program4=/usr/lib/baloorunner
+program5=/usr/bin/kmix
+restartCommand1=/usr/bin/latte-dock,-session,1078353130000161165113800000006180004_1611666066_906148
+restartCommand2=/usr/lib/DiscoverNotifier,-session,1078353130000161165113800000006180005_1611666066_906369
+restartCommand3=
+restartCommand4=/usr/lib/baloorunner,-session,1078353130000161125156700000006230031_1611666066_906687
+restartCommand5=/usr/bin/kmix,-session,1078353130000161143591300000006120011_1611666066_906334
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+restartStyleHint5=0
+userId1=chema
+userId2=chema
+userId3=chema
+userId4=chema
+userId5=chema

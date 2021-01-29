@@ -1,0 +1,42 @@
+Looking for git in: git
+Using git 2.30.0 from git
+> git rev-parse --git-dir
+Open repository: /home/chema/Desktop/dotfiles
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chema/Desktop/dotfiles/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :README.md
+> git ls-files --stage -- /home/chema/Desktop/dotfiles/README.md
+> git cat-file -s 27ef622f06045c5a8051d3b24b7a1526180ed5a1
+> git config --local branch.main.github-pr-owner-number
+> git check-ignore -v -z --stdin
+> git show --textconv :README.md
+> git ls-files --stage -- /home/chema/Desktop/dotfiles/README.md
+> git cat-file -s 27ef622f06045c5a8051d3b24b7a1526180ed5a1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chema/Desktop/dotfiles/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :README.md
+> git ls-files --stage -- /home/chema/Desktop/dotfiles/README.md
+> git cat-file -s 27ef622f06045c5a8051d3b24b7a1526180ed5a1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chema/Desktop/dotfiles/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template

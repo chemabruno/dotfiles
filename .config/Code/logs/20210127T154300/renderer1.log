@@ -1,0 +1,16 @@
+[2021-01-27 15:43:02.680] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/chema/PC3/.vscode'
+[2021-01-27 15:43:02.680] [renderer1] [error] Error: Unable to read file '/home/chema/.cache/kioexec/krun/95805_0/index.html' (Error: Unable to resolve non-existing file '/home/chema/.cache/kioexec/krun/95805_0/index.html')
+    at Object.t.createErrorWithActions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:56:955)
+    at w.handleSetInputError (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6366:120)
+    at w.handleSetInputError (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6368:776)
+    at w.setInput (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6365:827)
+    at async p.doSetInput (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4688:840)
+    at async p.openEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4687:425)
+    at async file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:7002:617
+    at async e.restoreEditors (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6995:609)
+[2021-01-27 15:43:15.084] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.live-sass' took 99% of 3942.6ms, saved PROFILE here: '/tmp/exthost-2a469c.cpuprofile' [{"id":"gc","total":18192,"percentage":0},{"id":"ritwickdey.live-sass","total":3917821,"percentage":99},{"id":"self","total":3872,"percentage":0},{"id":"vscode.git","total":464,"percentage":0},{"id":"vscode.microsoft-authentication","total":158,"percentage":0},{"id":"vscode.typescript-language-features","total":1756,"percentage":0}]
+[2021-01-28 17:47:27.511] [renderer1] [error] Model is disposed!: Error: Model is disposed!
+    at P._assertNotDisposed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1505:178)
+    at P.getLineCount (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1511:612)
+    at g.put (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2017:932)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2478:812

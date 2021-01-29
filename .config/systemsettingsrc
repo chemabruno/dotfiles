@@ -1,0 +1,28 @@
+[FileDialogSize]
+eDP HDMI-A-0 Height 768=580
+eDP HDMI-A-0 Width 1366=968
+
+[KFileDialog Settings]
+Recent Files[$e]=animesky.jpg,file:$HOME/Downloads/profile.png,file:$HOME/.config/wallpapers/animesky.jpg,file:$HOME/.scripts/wm.sh
+Recent URLs[$e]=file:$HOME/.config/wallpapers/,file:$HOME/.config/,file:$HOME/.scripts/,file:$HOME/,file:$HOME/Downloads/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+eDP HDMI-A-0 Height 768=390
+eDP HDMI-A-0 Width 1366=412
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAApEAAALGAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP HDMI-A-0 Height 768=480
+eDP HDMI-A-0 Width 1366=640
+eDP HDMI-A-0 Window-Maximized 1366x768=true
+eDP HDMI-A-0 Window-Maximized 1920x1080=true
+eDP HDMI-A-0 XPosition=19
+eDP HDMI-A-0 YPosition=19
+eDP Height 768=650
+eDP Width 1366=1024
+eDP Window-Maximized 1366x768=true
+eDP XPosition=690
+eDP YPosition=39

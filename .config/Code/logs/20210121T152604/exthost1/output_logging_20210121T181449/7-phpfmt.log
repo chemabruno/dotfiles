@@ -1,0 +1,120 @@
+1/21/2021, 6:16:11 PM
+---------------------
+php "/home/chema/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30/node_modules/phpfmt/fmt.phar" --psr2 --indent_with_space=4 /tmp/temp-gwldurp.php
+
+1/21/2021, 6:16:13 PM
+---------------------
+php "/home/chema/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30/node_modules/phpfmt/fmt.phar" --psr2 --indent_with_space=4 /tmp/temp-jvayrp.php
+
+1/21/2021, 7:28:58 PM
+---------------------
+Command failed: php -l /tmp/temp-bqspmirg.php
+PHP Parse error:  syntax error, unexpected '{' in /tmp/temp-bqspmirg.php on line 10
+
+
+1/21/2021, 7:29:00 PM
+---------------------
+Command failed: php -l /tmp/temp-aejvsooi.php
+PHP Parse error:  syntax error, unexpected '{' in /tmp/temp-aejvsooi.php on line 10
+
+
+1/21/2021, 7:29:09 PM
+---------------------
+Command failed: php -l /tmp/temp-rjvljhmxa.php
+PHP Parse error:  syntax error, unexpected '{', expecting '(' in /tmp/temp-rjvljhmxa.php on line 10
+
+
+1/21/2021, 7:29:10 PM
+---------------------
+Command failed: php -l /tmp/temp-kgfvr.php
+PHP Parse error:  syntax error, unexpected '{', expecting '(' in /tmp/temp-kgfvr.php on line 10
+
+
+1/21/2021, 7:29:16 PM
+---------------------
+Command failed: php -l /tmp/temp-ggxdlk.php
+PHP Parse error:  syntax error, unexpected 'Vitalis' (T_STRING), expecting ')' in /tmp/temp-ggxdlk.php on line 13
+
+
+1/21/2021, 7:29:18 PM
+---------------------
+Command failed: php -l /tmp/temp-kergrxm.php
+PHP Parse error:  syntax error, unexpected 'Vitalis' (T_STRING), expecting ')' in /tmp/temp-kergrxm.php on line 13
+
+
+1/21/2021, 7:31:05 PM
+---------------------
+php "/home/chema/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30/node_modules/phpfmt/fmt.phar" --psr2 --indent_with_space=4 /tmp/temp-vilampeey.php
+
+1/21/2021, 7:31:08 PM
+---------------------
+php "/home/chema/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30/node_modules/phpfmt/fmt.phar" --psr2 --indent_with_space=4 /tmp/temp-pllvmly.php
+
+1/21/2021, 7:31:22 PM
+---------------------
+php "/home/chema/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30/node_modules/phpfmt/fmt.phar" --psr2 --indent_with_space=4 /tmp/temp-mhiuzxnkc.php
+
+1/21/2021, 7:31:26 PM
+---------------------
+php "/home/chema/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30/node_modules/phpfmt/fmt.phar" --psr2 --indent_with_space=4 /tmp/temp-khpezlzla.php
+
+1/21/2021, 7:31:28 PM
+---------------------
+php "/home/chema/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30/node_modules/phpfmt/fmt.phar" --psr2 --indent_with_space=4 /tmp/temp-ljxkvkl.php
+
+1/21/2021, 7:32:47 PM
+---------------------
+php "/home/chema/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30/node_modules/phpfmt/fmt.phar" --psr2 --indent_with_space=4 /tmp/temp-tscphyvk.php
+
+1/21/2021, 7:32:49 PM
+---------------------
+php "/home/chema/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30/node_modules/phpfmt/fmt.phar" --psr2 --indent_with_space=4 /tmp/temp-fnoxxyfth.php
+
+1/21/2021, 7:33:23 PM
+---------------------
+php "/home/chema/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30/node_modules/phpfmt/fmt.phar" --psr2 --indent_with_space=4 /tmp/temp-ljhpkogz.php
+
+1/21/2021, 7:33:26 PM
+---------------------
+php "/home/chema/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30/node_modules/phpfmt/fmt.phar" --psr2 --indent_with_space=4 /tmp/temp-iygwcuj.php
+
+1/21/2021, 7:34:15 PM
+---------------------
+php "/home/chema/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30/node_modules/phpfmt/fmt.phar" --psr2 --indent_with_space=4 /tmp/temp-csfbvjqiix.php
+
+1/21/2021, 7:34:40 PM
+---------------------
+php "/home/chema/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30/node_modules/phpfmt/fmt.phar" --psr2 --indent_with_space=4 /tmp/temp-hrxbbznil.php
+
+1/21/2021, 7:34:58 PM
+---------------------
+php "/home/chema/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30/node_modules/phpfmt/fmt.phar" --psr2 --indent_with_space=4 /tmp/temp-xhtiupxgr.php
+
+1/21/2021, 7:35:56 PM
+---------------------
+php "/home/chema/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30/node_modules/phpfmt/fmt.phar" --psr2 --indent_with_space=4 /tmp/temp-qhlpay.php
+
+1/21/2021, 7:35:58 PM
+---------------------
+php "/home/chema/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30/node_modules/phpfmt/fmt.phar" --psr2 --indent_with_space=4 /tmp/temp-ypnxhmnth.php
+
+1/21/2021, 7:38:44 PM
+---------------------
+Command failed: php -l /tmp/temp-fvfqqpz.php
+PHP Parse error:  syntax error, unexpected '}' in /tmp/temp-fvfqqpz.php on line 29
+
+
+1/21/2021, 7:39:33 PM
+---------------------
+Command failed: php -l /tmp/temp-urdvjcnf.php
+PHP Parse error:  syntax error, unexpected '}' in /tmp/temp-urdvjcnf.php on line 29
+
+
+1/21/2021, 7:39:39 PM
+---------------------
+php "/home/chema/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30/node_modules/phpfmt/fmt.phar" --psr2 --indent_with_space=4 /tmp/temp-crtooqyyp.php
+
+1/21/2021, 7:40:40 PM
+---------------------
+php "/home/chema/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30/node_modules/phpfmt/fmt.phar" --psr2 --indent_with_space=4 /tmp/temp-guheekd.php
+

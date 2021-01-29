@@ -1,0 +1,78 @@
+[2021-01-21 15:26:07.768] [userDataSync] [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+[2021-01-21 15:26:07.768] [userDataSync] [info] Auto Sync is disabled.
+[2021-01-21 18:12:24.619] [userDataSync] [info] Did reset the local sync state.
+[2021-01-21 18:12:25.926] [userDataSync] [info] Settings: Updated local settings
+[2021-01-21 18:12:25.934] [userDataSync] [info] Settings: Updated last synchronized settings
+[2021-01-21 18:12:25.945] [userDataSync] [info] Keybindings: Updated local keybindings
+[2021-01-21 18:12:25.953] [userDataSync] [info] Keybindings: Updated last synchronized keybindings
+[2021-01-21 18:12:25.958] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-01-21 18:12:25.965] [userDataSync] [info] Snippets: Updated last synchronized snippets
+[2021-01-21 18:12:25.979] [userDataSync] [info] GlobalState: Updated global state ["workbench.view.extensions.state.hidden","javascript.1.editedCount","javascript.1.editedDate","workbench.view.extension.github-pull-requests.state.hidden","github-chemabrunofbmoll","workbench.view.sync.state.hidden","commandPalette.mru.cache","commandPalette.mru.counter","nps/skipVersion","nps/isCandidate","scm/input:Git:/home/chema/Documents/Work/apache/examen","scm/input:Git:/home/chema/Documents/Work/BalearicBuild_2021","scm/input:Git:/home/chema/Documents/Work/P2_Wireframe","scm/input:Git:/home/chema/Documents/Work/PP22","javascript.1.isCandidate","javascript.1.skipVersion","terminal.integrated.showTerminalConfigPrompt","scm/input:Git:/home/chema/Documents/PC3","scm/input:Git:/home/chema/Documents/linux","scm/input:Git:/home/chema/Documents/dotfiles","workbench.view.debug.state.hidden","workbench.activity.pinnedViewlets2","nps/sessionCount","nps/lastSessionDate","cpp.1.sessionCount","cpp.1.lastSessionDate","java.2.sessionCount","java.2.lastSessionDate","javascript.1.sessionCount","javascript.1.lastSessionDate","typescript.1.sessionCount","typescript.1.lastSessionDate","colorThemeData"]
+[2021-01-21 18:12:25.979] [userDataSync] [info] GlobalState: Updated local ui state
+[2021-01-21 18:12:25.989] [userDataSync] [info] GlobalState: Updated last synchronized ui state
+[2021-01-21 18:12:26.684] [userDataSync] [info] Extensions: Enabled extension esbenp.prettier-vscode 5.8.0
+[2021-01-21 18:12:26.762] [userDataSync] [info] Extensions: Enabled extension github.vscode-pull-request-github 0.22.0
+[2021-01-21 18:12:26.970] [userDataSync] [info] Extensions: Enabled extension felixfbecker.php-debug 1.14.5
+[2021-01-21 18:12:27.085] [userDataSync] [info] Extensions: Enabled extension teabyii.ayu 0.20.1
+[2021-01-21 18:12:27.088] [userDataSync] [info] Extensions: Enabled extension negokaz.live-server-preview 0.1.4
+[2021-01-21 18:12:27.091] [userDataSync] [info] Extensions: Enabled extension kokororin.vscode-phpfmt 1.0.30
+[2021-01-21 18:12:27.093] [userDataSync] [info] Extensions: Enabled extension rifi2k.format-html-in-php 1.7.0
+[2021-01-21 18:12:27.097] [userDataSync] [info] Extensions: Enabled extension humy2833.ftp-simple 0.7.5
+[2021-01-21 18:12:27.101] [userDataSync] [info] Extensions: Enabled extension ritwickdey.liveserver 5.6.1
+[2021-01-21 18:12:29.032] [userDataSync] [info] Extensions: Installed extension. kokororin.vscode-phpfmt 1.0.30
+[2021-01-21 18:12:30.175] [userDataSync] [info] Extensions: Installed extension. github.vscode-pull-request-github 0.22.0
+[2021-01-21 18:12:31.853] [userDataSync] [info] Extensions: Installed extension. esbenp.prettier-vscode 5.8.0
+[2021-01-21 18:12:32.467] [userDataSync] [info] Extensions: Installed extension. rifi2k.format-html-in-php 1.7.0
+[2021-01-21 18:12:32.523] [userDataSync] [info] Extensions: Installed extension. teabyii.ayu 0.20.1
+[2021-01-21 18:12:34.938] [userDataSync] [info] Extensions: Installed extension. felixfbecker.php-debug 1.14.5
+[2021-01-21 18:12:38.115] [userDataSync] [info] Extensions: Installed extension. humy2833.ftp-simple 0.7.5
+[2021-01-21 18:12:39.215] [userDataSync] [info] Extensions: Installed extension. negokaz.live-server-preview 0.1.4
+[2021-01-21 18:12:39.600] [userDataSync] [info] Extensions: Installed extension. ritwickdey.liveserver 5.6.1
+[2021-01-21 18:12:39.609] [userDataSync] [info] Extensions: Updated last synchronized extensions
+[2021-01-21 18:12:39.703] [userDataSync] [info] Auto Sync: Started
+[2021-01-21 18:12:39.704] [userDataSync] [info] Auto Sync: Triggered by Interval
+[2021-01-21 18:12:40.101] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2021-01-21 18:12:40.111] [userDataSync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-01-21 18:12:40.122] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-01-21 18:12:40.159] [userDataSync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-01-21 18:12:40.353] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-01-21 18:12:40.357] [userDataSync] [info] Sync done. Took 276ms
+[2021-01-21 18:13:39.299] [userDataSync] [info] Auto Sync: Triggered by Activity
+[2021-01-21 18:13:39.474] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2021-01-21 18:13:39.482] [userDataSync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-01-21 18:13:39.487] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-01-21 18:13:39.516] [userDataSync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-01-21 18:13:39.619] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-01-21 18:13:39.621] [userDataSync] [info] Sync done. Took 152ms
+[2021-01-21 18:13:54.470] [userDataSync] [info] Auto Sync: Triggered by Activity
+[2021-01-21 18:13:54.556] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2021-01-21 18:13:54.560] [userDataSync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-01-21 18:13:54.563] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-01-21 18:13:54.588] [userDataSync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-01-21 18:13:54.653] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-01-21 18:13:54.654] [userDataSync] [info] Sync done. Took 103ms
+[2021-01-21 18:14:27.975] [userDataSync] [info] Auto Sync: Triggered by Activity
+[2021-01-21 18:14:28.243] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2021-01-21 18:14:28.332] [userDataSync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-01-21 18:14:28.422] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-01-21 18:14:28.674] [userDataSync] [info] GlobalState: Updated remote ui state
+[2021-01-21 18:14:28.678] [userDataSync] [info] GlobalState: Updated last synchronized ui state
+[2021-01-21 18:14:28.812] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-01-21 18:14:28.814] [userDataSync] [info] Sync done. Took 717ms
+[2021-01-21 18:14:30.058] [userDataSync] [info] Auto Sync: Triggered by Activity
+[2021-01-21 18:14:30.169] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2021-01-21 18:14:30.181] [userDataSync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-01-21 18:14:30.189] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-01-21 18:14:30.519] [userDataSync] [info] GlobalState: Updated remote ui state
+[2021-01-21 18:14:30.544] [userDataSync] [info] GlobalState: Updated last synchronized ui state
+[2021-01-21 18:14:30.746] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-01-21 18:14:30.750] [userDataSync] [info] Sync done. Took 594ms
+[2021-01-21 18:14:31.138] [userDataSync] [info] Auto Sync: Triggered by Activity
+[2021-01-21 18:14:31.291] [userDataSync] [info] Settings: No changes found during synchronizing settings.
+[2021-01-21 18:14:31.310] [userDataSync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-01-21 18:14:31.322] [userDataSync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-01-21 18:14:31.370] [userDataSync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-01-21 18:14:31.526] [userDataSync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-01-21 18:14:31.529] [userDataSync] [info] Sync done. Took 248ms
+[2021-01-21 18:14:32.138] [userDataSync] [info] Auto Sync: Suspended until auth token is available.
+[2021-01-21 18:14:32.139] [userDataSync] [info] Auto Sync: Stopped

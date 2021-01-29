@@ -1,0 +1,21 @@
+[DownloadDialog Settings]
+eDP Height 768=494
+eDP Width 1366=700
+
+[KFileDialog Settings]
+Recent Files[$e]=animesky.jpg,file:$HOME/.config/wallpapers/animesky.jpg
+Recent URLs[$e]=file:$HOME/.config/wallpapers/
+detailViewIconSize=16
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=30
+
+[PlasmaViews][Panel 2][Horizontal1366]
+thickness=30
+
+[ScreenConnectors]
+0=eDP
+1=HDMI-A-0
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

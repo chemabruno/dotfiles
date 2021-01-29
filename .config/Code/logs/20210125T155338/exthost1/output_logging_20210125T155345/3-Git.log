@@ -1,0 +1,201 @@
+Looking for git in: git
+Using git 2.30.0 from git
+> git rev-parse --git-dir
+Open repository: /home/chema/PC3
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chema/PC3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/js/signup.js
+> git ls-files --stage -- /home/chema/PC3/src/js/signup.js
+> git check-ignore -v -z --stdin
+> git config --local branch.main.github-pr-owner-number
+> git show --textconv :src/signup.html
+> git ls-files --stage -- /home/chema/PC3/src/signup.html
+> git check-ignore -v -z --stdin
+> git show --textconv :src/login.html
+> git ls-files --stage -- /home/chema/PC3/src/login.html
+> git check-ignore -v -z --stdin
+> git show --textconv :src/index.html
+> git ls-files --stage -- /home/chema/PC3/src/index.html
+> git cat-file -s 92440fdfd1a9505343deba72d6000bcf08c4d902
+> git show --textconv :src/login.html
+> git ls-files --stage -- /home/chema/PC3/src/login.html
+> git show --textconv :src/signup.html
+> git ls-files --stage -- /home/chema/PC3/src/signup.html
+> git show --textconv :src/css/signup.scss
+> git ls-files --stage -- /home/chema/PC3/src/css/signup.scss
+> git show --textconv :src/signup.html
+> git ls-files --stage -- /home/chema/PC3/src/signup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chema/PC3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/js/signup.js
+> git ls-files --stage -- /home/chema/PC3/src/js/signup.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chema/PC3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git show --textconv :src/signup.html
+> git ls-files --stage -- /home/chema/PC3/src/signup.html
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chema/PC3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/js/signup.js
+> git ls-files --stage -- /home/chema/PC3/src/js/signup.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git show --textconv :src/js/modules/validation.js
+> git ls-files --stage -- /home/chema/PC3/src/js/modules/validation.js
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chema/PC3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chema/PC3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/login.html
+> git ls-files --stage -- /home/chema/PC3/src/login.html
+> git show --textconv :src/signup.html
+> git ls-files --stage -- /home/chema/PC3/src/signup.html
+> git show --textconv :src/js/modules/validation.js
+> git ls-files --stage -- /home/chema/PC3/src/js/modules/validation.js
+> git show --textconv :src/js/signup.js
+> git ls-files --stage -- /home/chema/PC3/src/js/signup.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chema/PC3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/signup.html
+> git ls-files --stage -- /home/chema/PC3/src/signup.html
+> git show --textconv :src/css/signup.scss
+> git ls-files --stage -- /home/chema/PC3/src/css/signup.scss
+> git show --textconv :src/js/signup.js
+> git ls-files --stage -- /home/chema/PC3/src/js/signup.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chema/PC3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/css/signup.scss
+> git ls-files --stage -- /home/chema/PC3/src/css/signup.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chema/PC3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/js/modules/validation.js
+> git ls-files --stage -- /home/chema/PC3/src/js/modules/validation.js
+> git show --textconv :src/login.html
+> git ls-files --stage -- /home/chema/PC3/src/login.html
+> git show --textconv :src/signup.html
+> git ls-files --stage -- /home/chema/PC3/src/signup.html
+> git show --textconv :src/signup.html
+> git ls-files --stage -- /home/chema/PC3/src/signup.html
+> git show --textconv :src/login.html
+> git ls-files --stage -- /home/chema/PC3/src/login.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chema/PC3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/signup.html
+> git ls-files --stage -- /home/chema/PC3/src/signup.html
+> git show --textconv :src/login.html
+> git ls-files --stage -- /home/chema/PC3/src/login.html
+> git show --textconv :src/signup.html
+> git ls-files --stage -- /home/chema/PC3/src/signup.html
+> git show --textconv :src/js/modules/validation.js
+> git ls-files --stage -- /home/chema/PC3/src/js/modules/validation.js
+> git show --textconv :robots.txt
+> git ls-files --stage -- /home/chema/PC3/robots.txt
+> git show --textconv :src/js/modules/validation.js
+> git ls-files --stage -- /home/chema/PC3/src/js/modules/validation.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chema/PC3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/js/signup.js
+> git ls-files --stage -- /home/chema/PC3/src/js/signup.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chema/PC3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/signup.html
+> git ls-files --stage -- /home/chema/PC3/src/signup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chema/PC3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/chema/PC3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template

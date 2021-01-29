@@ -1,0 +1,56 @@
+[2021-01-21 15:26:07.672] [sharedprocess] [info] main {"machineId":"6bff0b0d4d0c23a1e8eb9f150f30a74552fe6af1b8bd0ae5939726220b22ac8e","windowId":2}
+[2021-01-21 15:26:47.689] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-01-21 18:12:26.685] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2021-01-21 18:12:26.762] [sharedprocess] [info] Installing extension: github.vscode-pull-request-github
+[2021-01-21 18:12:26.970] [sharedprocess] [info] Installing extension: felixfbecker.php-debug
+[2021-01-21 18:12:27.085] [sharedprocess] [info] Installing extension: teabyii.ayu
+[2021-01-21 18:12:27.089] [sharedprocess] [info] Installing extension: negokaz.live-server-preview
+[2021-01-21 18:12:27.091] [sharedprocess] [info] Installing extension: kokororin.vscode-phpfmt
+[2021-01-21 18:12:27.093] [sharedprocess] [info] Installing extension: rifi2k.format-html-in-php
+[2021-01-21 18:12:27.097] [sharedprocess] [info] Installing extension: humy2833.ftp-simple
+[2021-01-21 18:12:27.102] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2021-01-21 18:12:28.100] [sharedprocess] [info] Downloaded extension: kokororin.vscode-phpfmt undefined
+[2021-01-21 18:12:28.342] [sharedprocess] [info] Downloaded extension: github.vscode-pull-request-github undefined
+[2021-01-21 18:12:28.487] [sharedprocess] [info] Downloaded extension: felixfbecker.php-debug undefined
+[2021-01-21 18:12:28.515] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode undefined
+[2021-01-21 18:12:28.535] [sharedprocess] [info] Downloaded extension: humy2833.ftp-simple undefined
+[2021-01-21 18:12:28.571] [sharedprocess] [info] Downloaded extension: negokaz.live-server-preview undefined
+[2021-01-21 18:12:28.627] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver undefined
+[2021-01-21 18:12:28.648] [sharedprocess] [info] Downloaded extension: rifi2k.format-html-in-php undefined
+[2021-01-21 18:12:28.685] [sharedprocess] [info] Downloaded extension: teabyii.ayu undefined
+[2021-01-21 18:12:28.975] [sharedprocess] [info] Extracted extension to /home/chema/.vscode/extensions/.kokororin.vscode-phpfmt-1.0.30: kokororin.vscode-phpfmt
+[2021-01-21 18:12:28.978] [sharedprocess] [info] Renamed to /home/chema/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30
+[2021-01-21 18:12:28.990] [sharedprocess] [info] Installation completed. kokororin.vscode-phpfmt
+[2021-01-21 18:12:29.028] [sharedprocess] [info] Extensions installed successfully: kokororin.vscode-phpfmt
+[2021-01-21 18:12:30.136] [sharedprocess] [info] Extracted extension to /home/chema/.vscode/extensions/.github.vscode-pull-request-github-0.22.0: github.vscode-pull-request-github
+[2021-01-21 18:12:30.137] [sharedprocess] [info] Renamed to /home/chema/.vscode/extensions/github.vscode-pull-request-github-0.22.0
+[2021-01-21 18:12:30.151] [sharedprocess] [info] Installation completed. github.vscode-pull-request-github
+[2021-01-21 18:12:30.172] [sharedprocess] [info] Extensions installed successfully: github.vscode-pull-request-github
+[2021-01-21 18:12:31.819] [sharedprocess] [info] Extracted extension to /home/chema/.vscode/extensions/.esbenp.prettier-vscode-5.8.0: esbenp.prettier-vscode
+[2021-01-21 18:12:31.820] [sharedprocess] [info] Renamed to /home/chema/.vscode/extensions/esbenp.prettier-vscode-5.8.0
+[2021-01-21 18:12:31.827] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2021-01-21 18:12:31.852] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2021-01-21 18:12:32.423] [sharedprocess] [info] Extracted extension to /home/chema/.vscode/extensions/.rifi2k.format-html-in-php-1.7.0: rifi2k.format-html-in-php
+[2021-01-21 18:12:32.433] [sharedprocess] [info] Renamed to /home/chema/.vscode/extensions/rifi2k.format-html-in-php-1.7.0
+[2021-01-21 18:12:32.445] [sharedprocess] [info] Installation completed. rifi2k.format-html-in-php
+[2021-01-21 18:12:32.464] [sharedprocess] [info] Extensions installed successfully: rifi2k.format-html-in-php
+[2021-01-21 18:12:32.489] [sharedprocess] [info] Extracted extension to /home/chema/.vscode/extensions/.teabyii.ayu-0.20.1: teabyii.ayu
+[2021-01-21 18:12:32.490] [sharedprocess] [info] Renamed to /home/chema/.vscode/extensions/teabyii.ayu-0.20.1
+[2021-01-21 18:12:32.508] [sharedprocess] [info] Installation completed. teabyii.ayu
+[2021-01-21 18:12:32.520] [sharedprocess] [info] Extensions installed successfully: teabyii.ayu
+[2021-01-21 18:12:34.918] [sharedprocess] [info] Extracted extension to /home/chema/.vscode/extensions/.felixfbecker.php-debug-1.14.5: felixfbecker.php-debug
+[2021-01-21 18:12:34.919] [sharedprocess] [info] Renamed to /home/chema/.vscode/extensions/felixfbecker.php-debug-1.14.5
+[2021-01-21 18:12:34.924] [sharedprocess] [info] Installation completed. felixfbecker.php-debug
+[2021-01-21 18:12:34.936] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-debug
+[2021-01-21 18:12:38.087] [sharedprocess] [info] Extracted extension to /home/chema/.vscode/extensions/.humy2833.ftp-simple-0.7.5: humy2833.ftp-simple
+[2021-01-21 18:12:38.087] [sharedprocess] [info] Renamed to /home/chema/.vscode/extensions/humy2833.ftp-simple-0.7.5
+[2021-01-21 18:12:38.090] [sharedprocess] [info] Installation completed. humy2833.ftp-simple
+[2021-01-21 18:12:38.114] [sharedprocess] [info] Extensions installed successfully: humy2833.ftp-simple
+[2021-01-21 18:12:39.193] [sharedprocess] [info] Extracted extension to /home/chema/.vscode/extensions/.negokaz.live-server-preview-0.1.4: negokaz.live-server-preview
+[2021-01-21 18:12:39.193] [sharedprocess] [info] Renamed to /home/chema/.vscode/extensions/negokaz.live-server-preview-0.1.4
+[2021-01-21 18:12:39.197] [sharedprocess] [info] Installation completed. negokaz.live-server-preview
+[2021-01-21 18:12:39.214] [sharedprocess] [info] Extensions installed successfully: negokaz.live-server-preview
+[2021-01-21 18:12:39.585] [sharedprocess] [info] Extracted extension to /home/chema/.vscode/extensions/.ritwickdey.liveserver-5.6.1: ritwickdey.liveserver
+[2021-01-21 18:12:39.585] [sharedprocess] [info] Renamed to /home/chema/.vscode/extensions/ritwickdey.liveserver-5.6.1
+[2021-01-21 18:12:39.587] [sharedprocess] [info] Installation completed. ritwickdey.liveserver
+[2021-01-21 18:12:39.599] [sharedprocess] [info] Extensions installed successfully: ritwickdey.liveserver

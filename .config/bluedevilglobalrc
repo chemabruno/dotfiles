@@ -1,0 +1,5 @@
+[Adapters]
+DC:F5:05:C7:E2:94_powered=true
+
+[Devices]
+connectedDevices=FD:0C:3C:88:1B:AF

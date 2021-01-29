@@ -1,0 +1,80 @@
+[2021-01-21 15:26:06.764] [exthost] [info] extension host started
+[2021-01-21 15:26:06.838] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-01-21 15:26:06.838] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-01-21 15:26:06.859] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-01-21 15:26:06.859] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-01-21 15:26:06.863] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-01-21 15:26:06.863] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-01-21 15:26:06.888] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-21 15:26:06.889] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-01-21 15:26:06.917] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-01-21 15:26:06.917] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-01-21 15:26:06.922] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-01-21 15:26:06.922] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/search-result/dist/extension.js
+[2021-01-21 15:26:07.022] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-21 15:26:07.022] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-01-21 15:26:07.080] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-01-21 15:26:07.080] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-01-21 15:26:07.194] [exthost] [info] eager extensions activated
+[2021-01-21 15:26:07.241] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-01-21 15:26:07.241] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-01-21 18:12:30.384] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":false,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"onStartupFinished"}
+[2021-01-21 18:12:30.384] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chema/.vscode/extensions/github.vscode-pull-request-github-0.22.0/media/extension
+[2021-01-21 18:12:31.977] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-01-21 18:12:31.977] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chema/.vscode/extensions/esbenp.prettier-vscode-5.8.0/dist/extension
+[2021-01-21 18:12:38.239] [exthost] [info] ExtensionService#_doActivateExtension humy2833.ftp-simple {"startup":false,"extensionId":{"value":"humy2833.ftp-simple","_lower":"humy2833.ftp-simple"},"activationEvent":"*"}
+[2021-01-21 18:12:38.239] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chema/.vscode/extensions/humy2833.ftp-simple-0.7.5/extension
+[2021-01-21 18:12:39.757] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":false,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-01-21 18:12:39.757] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chema/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-01-21 18:14:29.147] [exthost] [info] extension host started
+[2021-01-21 18:14:29.222] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-01-21 18:14:29.222] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-01-21 18:14:29.262] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-01-21 18:14:29.263] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-01-21 18:14:29.267] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-01-21 18:14:29.267] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-01-21 18:14:29.311] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-21 18:14:29.312] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-01-21 18:14:29.353] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-01-21 18:14:29.354] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-01-21 18:14:29.361] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-01-21 18:14:29.362] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/search-result/dist/extension.js
+[2021-01-21 18:14:29.366] [exthost] [info] ExtensionService#_doActivateExtension humy2833.ftp-simple {"startup":true,"extensionId":{"value":"humy2833.ftp-simple","_lower":"humy2833.ftp-simple"},"activationEvent":"*"}
+[2021-01-21 18:14:29.367] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chema/.vscode/extensions/humy2833.ftp-simple-0.7.5/extension
+[2021-01-21 18:14:30.380] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-01-21 18:14:30.380] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chema/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-01-21 18:14:30.912] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-01-21 18:14:30.913] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/npmMain
+[2021-01-21 18:14:31.258] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-21 18:14:31.259] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-01-21 18:14:31.381] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-01-21 18:14:31.381] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-01-21 18:14:31.548] [exthost] [info] eager extensions activated
+[2021-01-21 18:14:31.595] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-01-21 18:14:31.595] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chema/.vscode/extensions/esbenp.prettier-vscode-5.8.0/dist/extension
+[2021-01-21 18:14:31.775] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":false,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"onStartupFinished"}
+[2021-01-21 18:14:31.775] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chema/.vscode/extensions/github.vscode-pull-request-github-0.22.0/media/extension
+[2021-01-21 18:14:31.948] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-01-21 18:14:31.948] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-01-21 18:14:49.035] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2021-01-21 18:14:49.036] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/php-language-features/dist/phpMain
+[2021-01-21 18:14:49.082] [exthost] [info] ExtensionService#_doActivateExtension kokororin.vscode-phpfmt {"startup":false,"extensionId":{"value":"kokororin.vscode-phpfmt","_lower":"kokororin.vscode-phpfmt"},"activationEvent":"onLanguage:php"}
+[2021-01-21 18:14:49.082] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chema/.vscode/extensions/kokororin.vscode-phpfmt-1.0.30/out/src/extension
+[2021-01-21 18:14:49.124] [exthost] [info] ExtensionService#_doActivateExtension rifi2k.format-html-in-php {"startup":false,"extensionId":{"value":"rifi2k.format-html-in-php","_lower":"rifi2k.format-html-in-php"},"activationEvent":"onLanguage:php"}
+[2021-01-21 18:14:49.124] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/chema/.vscode/extensions/rifi2k.format-html-in-php-1.7.0/out/extension
+[2021-01-21 19:28:58.584] [exthost] [error] [kokororin.vscode-phpfmt] provider FAILED
+[2021-01-21 19:28:58.584] [exthost] [error] undefined
+[2021-01-21 19:29:00.652] [exthost] [error] [kokororin.vscode-phpfmt] provider FAILED
+[2021-01-21 19:29:00.652] [exthost] [error] undefined
+[2021-01-21 19:29:09.424] [exthost] [error] [kokororin.vscode-phpfmt] provider FAILED
+[2021-01-21 19:29:09.424] [exthost] [error] undefined
+[2021-01-21 19:29:10.825] [exthost] [error] [kokororin.vscode-phpfmt] provider FAILED
+[2021-01-21 19:29:10.825] [exthost] [error] undefined
+[2021-01-21 19:29:16.223] [exthost] [error] [kokororin.vscode-phpfmt] provider FAILED
+[2021-01-21 19:29:16.223] [exthost] [error] undefined
+[2021-01-21 19:29:18.793] [exthost] [error] [kokororin.vscode-phpfmt] provider FAILED
+[2021-01-21 19:29:18.793] [exthost] [error] undefined
+[2021-01-21 19:38:44.183] [exthost] [error] [kokororin.vscode-phpfmt] provider FAILED
+[2021-01-21 19:38:44.183] [exthost] [error] undefined
+[2021-01-21 19:39:33.825] [exthost] [error] [kokororin.vscode-phpfmt] provider FAILED
+[2021-01-21 19:39:33.825] [exthost] [error] undefined

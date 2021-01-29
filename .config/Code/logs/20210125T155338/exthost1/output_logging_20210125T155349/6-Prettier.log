@@ -1,0 +1,389 @@
+["INFO" - 3:53:49 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 3:53:49 PM] Extension Version: 5.8.0.
+["INFO" - 3:53:49 PM] Enabling prettier for languages: ansible, css, graphql, home-assistant, html, javascript, javascriptreact, json, json5, jsonc, less, markdown, mdx, mongo, postcss, scss, typescript, typescriptreact, vue, yaml
+["INFO" - 3:53:49 PM] Enabling prettier for file extensions: .JSON-tmLanguage, ._js, .avsc, .bones, .cjs, .component.html, .css, .es, .es6, .frag, .geojson, .gltf, .gql, .graphql, .graphqls, .gs, .har, .htm, .html, .html.hl, .ice, .inc, .jake, .js, .js.flow, .jsb, .jscad, .jsfl, .jsm, .json, .json5, .jsonc, .jss, .jsx, .less, .markdown, .mcmeta, .md, .mdown, .mdwn, .mdx, .mir, .mjml, .mjs, .mkd, .mkdn, .mkdown, .njs, .pac, .pcss, .postcss, .reek, .ronn, .rviz, .scss, .sjs, .ssjs, .st, .sublime-build, .sublime-commands, .sublime-completions, .sublime-keymap, .sublime-macro, .sublime-menu, .sublime-mousemap, .sublime-project, .sublime-settings, .sublime-syntax, .sublime-theme, .sublime-workspace, .sublime_metrics, .sublime_session, .syntax, .tfstate, .tfstate.backup, .topojson, .ts, .tsx, .vue, .webapp, .webmanifest, .workbook, .wxs, .wxss, .xht, .xhtml, .xsjs, .xsjslib, .yaml, .yaml-tmlanguage, .yaml.sed, .yml, .yml.mysql, .yy, .yyp
+["INFO" - 3:53:49 PM] Enabling prettier for range supported languages: graphql, javascript, javascriptreact, json, typescript, typescriptreact
+["INFO" - 3:57:12 PM] Formatting /home/chema/PC3/src/login.html
+["INFO" - 3:57:12 PM] Using ignore file (if present) at /home/chema/PC3/.prettierignore
+["INFO" - 3:57:12 PM] Using bundled version of prettier.
+["INFO" - 3:57:12 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 3:57:12 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:57:12 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/chema/PC3/src/login.html",
+  "parser": "html"
+}
+["INFO" - 3:57:12 PM] Formatting completed in 225.212842ms.
+["INFO" - 3:57:30 PM] Formatting /home/chema/PC3/src/signup.html
+["INFO" - 3:57:30 PM] Using ignore file (if present) at /home/chema/PC3/.prettierignore
+["INFO" - 3:57:30 PM] Using bundled version of prettier.
+["INFO" - 3:57:30 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 3:57:30 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:57:30 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/chema/PC3/src/signup.html",
+  "parser": "html"
+}
+["INFO" - 3:57:31 PM] Formatting completed in 341.549622ms.
+["INFO" - 3:58:11 PM] Formatting /home/chema/PC3/src/js/signup.js
+["INFO" - 3:58:11 PM] Using ignore file (if present) at /home/chema/PC3/.prettierignore
+["INFO" - 3:58:11 PM] Using bundled version of prettier.
+["INFO" - 3:58:11 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 3:58:11 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:58:11 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/chema/PC3/src/js/signup.js",
+  "parser": "babel"
+}
+["INFO" - 3:58:11 PM] Formatting completed in 97.915464ms.
+["INFO" - 3:58:38 PM] Formatting /home/chema/PC3/src/js/signup.js
+["INFO" - 3:58:38 PM] Using ignore file (if present) at /home/chema/PC3/.prettierignore
+["INFO" - 3:58:38 PM] Using bundled version of prettier.
+["INFO" - 3:58:38 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 3:58:38 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:58:38 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/chema/PC3/src/js/signup.js",
+  "parser": "babel"
+}
+["INFO" - 3:58:38 PM] Formatting completed in 41.285511ms.
+["INFO" - 3:58:46 PM] Formatting /home/chema/PC3/src/js/modules/validation.js
+["INFO" - 3:58:46 PM] Using ignore file (if present) at /home/chema/PC3/.prettierignore
+["INFO" - 3:58:46 PM] Using bundled version of prettier.
+["INFO" - 3:58:46 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 3:58:46 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:58:46 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/chema/PC3/src/js/modules/validation.js",
+  "parser": "babel"
+}
+["INFO" - 3:58:46 PM] Formatting completed in 90.752851ms.
+["INFO" - 3:59:46 PM] Formatting /home/chema/PC3/src/js/signup.js
+["INFO" - 3:59:46 PM] Using ignore file (if present) at /home/chema/PC3/.prettierignore
+["INFO" - 3:59:46 PM] Using bundled version of prettier.
+["INFO" - 3:59:46 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 3:59:46 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 3:59:46 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/chema/PC3/src/js/signup.js",
+  "parser": "babel"
+}
+["INFO" - 3:59:46 PM] Formatting completed in 56.631374ms.
+["INFO" - 4:00:24 PM] Formatting /home/chema/PC3/src/js/signup.js
+["INFO" - 4:00:24 PM] Using ignore file (if present) at /home/chema/PC3/.prettierignore
+["INFO" - 4:00:24 PM] Using bundled version of prettier.
+["INFO" - 4:00:24 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 4:00:24 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:00:24 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/chema/PC3/src/js/signup.js",
+  "parser": "babel"
+}
+["INFO" - 4:00:24 PM] Formatting completed in 83.386158ms.
+["INFO" - 4:00:34 PM] Formatting /home/chema/PC3/src/css/signup.scss
+["INFO" - 4:00:34 PM] Using ignore file (if present) at /home/chema/PC3/.prettierignore
+["INFO" - 4:00:34 PM] Using bundled version of prettier.
+["INFO" - 4:00:34 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "scss"
+}
+["INFO" - 4:00:34 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:00:34 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/chema/PC3/src/css/signup.scss",
+  "parser": "scss"
+}
+["INFO" - 4:00:34 PM] Formatting completed in 108.476865ms.
+["INFO" - 4:58:43 PM] Formatting /home/chema/PC3/src/login.html
+["INFO" - 4:58:43 PM] Using ignore file (if present) at /home/chema/PC3/.prettierignore
+["INFO" - 4:58:43 PM] Using bundled version of prettier.
+["INFO" - 4:58:43 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 4:58:43 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:58:43 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/chema/PC3/src/login.html",
+  "parser": "html"
+}
+["INFO" - 4:58:43 PM] Formatting completed in 100.017365ms.
+["INFO" - 5:17:32 PM] Formatting /home/chema/PC3/src/js/signup.js
+["INFO" - 5:17:32 PM] Using ignore file (if present) at /home/chema/PC3/.prettierignore
+["INFO" - 5:17:32 PM] Using bundled version of prettier.
+["INFO" - 5:17:32 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 5:17:32 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:17:32 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/chema/PC3/src/js/signup.js",
+  "parser": "babel"
+}
+["INFO" - 5:17:32 PM] Formatting completed in 24.617198ms.
+["INFO" - 5:25:08 PM] Formatting /home/chema/PC3/src/signup.html
+["INFO" - 5:25:08 PM] Using ignore file (if present) at /home/chema/PC3/.prettierignore
+["INFO" - 5:25:08 PM] Using bundled version of prettier.
+["INFO" - 5:25:08 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 5:25:08 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:25:08 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/chema/PC3/src/signup.html",
+  "parser": "html"
+}
+["INFO" - 5:25:08 PM] Formatting completed in 234.762461ms.
+["INFO" - 5:25:43 PM] Formatting /home/chema/PC3/src/signup.html
+["INFO" - 5:25:43 PM] Using ignore file (if present) at /home/chema/PC3/.prettierignore
+["INFO" - 5:25:43 PM] Using bundled version of prettier.
+["INFO" - 5:25:43 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 5:25:43 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:25:43 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/chema/PC3/src/signup.html",
+  "parser": "html"
+}
+["INFO" - 5:25:43 PM] Formatting completed in 338.028203ms.

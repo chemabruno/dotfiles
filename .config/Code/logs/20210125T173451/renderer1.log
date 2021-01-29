@@ -1,0 +1,2 @@
+[2021-01-25 17:34:54.012] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/chema/PC3/.vscode'
+[2021-01-25 18:53:29.992] [renderer1] [warning] Settings pattern "workbench.fontAliasing" doesn't match any settings
